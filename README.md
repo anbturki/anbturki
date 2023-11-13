@@ -1,4 +1,4 @@
-**Full-Stack Developer** with **7+ years** of hands-on experience designing, developing and implementing applications and solutions using a range of technologies,**NodeJS**, **ReactJS**, **VueJS**,**PostgreSQL**, and **Docker**. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
+**Full-Stack Developer** with **10+ years** of hands-on experience designing, developing and implementing applications and solutions using a range of technologies,**NodeJS**, **ReactJS**, **VueJS**,**PostgreSQL**, and **Docker**. Seeking to leverage broad development experience and hands-on technical expertise in a challenging role as a Full-stack Developer.
 
 ## Contacts
 
